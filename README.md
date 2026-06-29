@@ -4,7 +4,7 @@
 
 Agent Skill for human-friendly README files.
 
-An Agent Skill for Claude Code and Codex that writes, rewrites, and audits a repository README against the actual state of the repository, rather than from a fixed documentation template.
+For Claude Code and Codex that writes, rewrites, and audits a repository README against the actual state of the repository, rather than from a fixed documentation template.
 
 The skill is built around one rule: every claim in the README must be supported by the repository itself — its files, code, configuration, tests, license, or output the user supplies. When a fact is missing, ReadmeVerity omits it or marks it for the user instead of inventing a plausible command, number, output, compatibility promise, or license.
 
