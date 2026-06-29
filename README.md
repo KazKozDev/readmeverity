@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="ReadmeVerity — Agent Skill" width="560">
 </p>
 
-# ReadmeVerity
+Agent Skill for human-friendly README files.
 
 An Agent Skill for Claude Code and Codex that writes, rewrites, and audits a repository README against the actual state of the repository, rather than from a fixed documentation template.
 
